@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="toolbarStyle">@style/toolbarStyle</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="menu_labels_style">
+        <item name="android:textColor">@color/nos_rood</item>
+    </style>
+
+    <style name="toolbarStyle">
+        <item name="contentInsetStart">0dp</item>
+    </style>
+
+</resources>
